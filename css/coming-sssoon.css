@@ -667,7 +667,8 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 .cover{
     position: fixed;
     opacity: 1;
-    background-color: rgba(0,0,0,.6);
+    /*background-color: rgba(0,0,0,.6);*/
+    background-color: rgba(0,0,0,0);
     left: 0px;
     top: 0px;
     width: 100%;

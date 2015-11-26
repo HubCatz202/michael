@@ -16,7 +16,8 @@ font-family: 'Bevan', cursive;
 
 .motto ul li{
   list-style-type: none;
-  display: inline;
+  display: inline-block;
+  padding: 5px 0px;
   vertical-align: middle;
   color: #AACCDD;
 }
